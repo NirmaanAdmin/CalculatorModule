@@ -3795,3 +3795,26 @@ $lang['add_timesheet'] 										  = 'Add timesheet';
 $lang['submit_button_bg_color']                               = 'Submit button background color';
 $lang['submit_button_text_color']                             = 'Submit button background text';
 $lang['automatically_assign_ticket_to_first_staff_responding'] = 'Automatically assign the ticket to the first staff that post a reply?';
+
+
+# Estimate calculator
+$lang['estimate_calculator']      							  = 'Estimate Calculator';
+$lang['estimate_civil_unit_converion_calculator_title']       = 'Civil Unit Conversion Calculator';
+$lang['estimate_conversion_type']                             = 'Conversion Type';
+$lang['estimate_conversion_type_length']                      = 'Length';
+$lang['estimate_conversion_type_area']                        = 'Area';
+$lang['estimate_conversion_type_volume']                      = 'Volume';
+$lang['estimate_conversion_unit']                             = 'Unit';
+$lang['estimate_conversion_unit_metre']                       = 'Metre';
+$lang['estimate_conversion_unit_feet']                        = 'Feet';
+$lang['estimate_conversion_unit_kilometre']                   = 'Kilometre';
+$lang['estimate_conversion_unit_mile']                        = 'Mile';
+$lang['estimate_conversion_unit_yard']                        = 'Yard';
+$lang['estimate_conversion_unit_inch']                        = 'Inch';
+$lang['estimate_conversion_unit_centimetre']                  = 'Centimetre';
+$lang['estimate_conversion_value']                  		  = 'Value';
+$lang['estimate_conversion_calculate']                  	  = 'Calculate';
+
+                           
+
+

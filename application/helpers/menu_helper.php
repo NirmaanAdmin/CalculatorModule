@@ -572,4 +572,16 @@ function app_init_admin_sidebar_menu_items()
         'position' => 10,
         'badge'    => [],
     ]);
+
+
+    if ((has_permission('estimate_calculator', '', 'view') || has_permission('estimate_calculator', '', 'view_own'))) {
+        $CI->app_menu->add_sidebar_menu_item('estimate_calculator', [
+            'name'     => _l('estimate_calculator'),
+            'href'     => admin_url('estimate_calculator'),
+            'position' => 47,
+            'icon'     => 'fa fa-calculator',
+            'badge'    => [],
+        ]);
+    }
+
 }
